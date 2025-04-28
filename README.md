@@ -2,7 +2,7 @@
 ![4ttth's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ttth&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)
 ## Current project working on:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4ttth&repo=abyss&theme=synthwave)(https://github.com/4ttth/abyss)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4ttth&repo=abyss&theme=synthwave)
 
 <!--
 **4ttth/4ttth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
