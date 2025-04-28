@@ -1,5 +1,8 @@
 ## Hi there 👋
-![4ttth's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ttth&show_icons=true&theme=tokyonight)
+![4ttth's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ttth&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ttth&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## Current project working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4ttth&repo=abyss)](https://github.com/4ttth/abyss)
 
 <!--
 **4ttth/4ttth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
