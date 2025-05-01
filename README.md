@@ -1,4 +1,4 @@
-## Hi there 👋
+## Mostly web projects
 ![4ttth's GitHub stats](https://github-readme-stats.vercel.app/api?username=4ttth&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)
 ## Current project working on:
