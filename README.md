@@ -4,7 +4,7 @@
 ## Check out my top programming languages that I've worked on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)
 
-## Current project working on:
+## Current projects working on:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GH-Prince-Laxamana&repo=cybcon25-registration&theme=synthwave)
 
 ## Former projects that I've co-created with:
