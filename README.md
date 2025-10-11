@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave)
 
 ## Current projects working on:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GH-Prince-Laxamana&repo=cybcon25-registration&theme=synthwave)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xuchip&repo=gakumon&theme=synthwave)
 
 ## Former projects that I've co-created with:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4ttth&repo=abyss&theme=synthwave)
